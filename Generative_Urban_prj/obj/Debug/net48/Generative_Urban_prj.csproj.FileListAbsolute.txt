@@ -1,0 +1,11 @@
+C:\Users\dagr\source\repos\HLA_Generative_Urban_CPH\Generative_Urban_sln\Generative_Urban_prj\bin\Debug\net48\Generative_Urban_prj.gha
+C:\Users\dagr\source\repos\HLA_Generative_Urban_CPH\Generative_Urban_sln\Generative_Urban_prj\bin\Debug\net48\clipper_library.dll
+C:\Users\dagr\source\repos\HLA_Generative_Urban_CPH\Generative_Urban_sln\Generative_Urban_prj\obj\Debug\net48\Generative_Urban_prj.csproj.AssemblyReference.cache
+C:\Users\dagr\source\repos\HLA_Generative_Urban_CPH\Generative_Urban_sln\Generative_Urban_prj\obj\Debug\net48\Generative_Urban_prj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dagr\source\repos\HLA_Generative_Urban_CPH\Generative_Urban_sln\Generative_Urban_prj\obj\Debug\net48\Generative_Urban_prj.AssemblyInfoInputs.cache
+C:\Users\dagr\source\repos\HLA_Generative_Urban_CPH\Generative_Urban_sln\Generative_Urban_prj\obj\Debug\net48\Generative_Urban_prj.AssemblyInfo.cs
+C:\Users\dagr\source\repos\HLA_Generative_Urban_CPH\Generative_Urban_sln\Generative_Urban_prj\obj\Debug\net48\Generative_Urban_prj.csproj.CoreCompileInputs.cache
+C:\Users\dagr\source\repos\HLA_Generative_Urban_CPH\Generative_Urban_sln\Generative_Urban_prj\obj\Debug\net48\Generative_Urban_prj.csproj.CopyComplete
+C:\Users\dagr\source\repos\HLA_Generative_Urban_CPH\Generative_Urban_sln\Generative_Urban_prj\obj\Debug\net48\Generative_Urban_prj.gha
+C:\Users\dagr\source\repos\HLA_Generative_Urban_CPH\Generative_Urban_sln\Generative_Urban_prj\obj\Debug\net48\Generative_Urban_prj.pdb
+C:\Users\dagr\source\repos\HLA_Generative_Urban_CPH\Generative_Urban_sln\Generative_Urban_prj\bin\Debug\net48\Generative_Urban_prj.pdb

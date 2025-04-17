@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <Version>1.0</Version>
+    <Title>Generative_Urban_prj</Title>
+    <Description>Description of Generative_Urban_prj</Description>
+    <TargetExt>.gha</TargetExt>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Clipper" Version="6.4.0" />
+    <PackageReference Include="Grasshopper" Version="7.35.23346.11001" IncludeAssets="compile;build" />
+  </ItemGroup>
+
+</Project>

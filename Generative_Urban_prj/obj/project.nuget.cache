@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PRsQeMbVgk0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DAGR\\OneDrive - Ramboll\\Desktop\\REPOS BACKUP\\HLA_Generative_Urban_CPH\\Generative_Urban_sln\\Generative_Urban_prj\\Generative_Urban_prj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAGR\\.nuget\\packages\\clipper\\6.4.0\\clipper.6.4.0.nupkg.sha512",
+    "C:\\Users\\DAGR\\.nuget\\packages\\grasshopper\\7.35.23346.11001\\grasshopper.7.35.23346.11001.nupkg.sha512",
+    "C:\\Users\\DAGR\\.nuget\\packages\\rhinocommon\\7.35.23346.11001\\rhinocommon.7.35.23346.11001.nupkg.sha512"
+  ],
+  "logs": []
+}

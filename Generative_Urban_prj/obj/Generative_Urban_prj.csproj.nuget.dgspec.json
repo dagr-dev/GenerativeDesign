@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DAGR\\OneDrive - Ramboll\\Desktop\\REPOS BACKUP\\HLA_Generative_Urban_CPH\\Generative_Urban_sln\\Generative_Urban_prj\\Generative_Urban_prj.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DAGR\\OneDrive - Ramboll\\Desktop\\REPOS BACKUP\\HLA_Generative_Urban_CPH\\Generative_Urban_sln\\Generative_Urban_prj\\Generative_Urban_prj.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DAGR\\OneDrive - Ramboll\\Desktop\\REPOS BACKUP\\HLA_Generative_Urban_CPH\\Generative_Urban_sln\\Generative_Urban_prj\\Generative_Urban_prj.csproj",
+        "projectName": "Generative_Urban_prj",
+        "projectPath": "C:\\Users\\DAGR\\OneDrive - Ramboll\\Desktop\\REPOS BACKUP\\HLA_Generative_Urban_CPH\\Generative_Urban_sln\\Generative_Urban_prj\\Generative_Urban_prj.csproj",
+        "packagesPath": "C:\\Users\\DAGR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DAGR\\OneDrive - Ramboll\\Desktop\\REPOS BACKUP\\HLA_Generative_Urban_CPH\\Generative_Urban_sln\\Generative_Urban_prj\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DAGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\files\\MergedCompanies\\HenningLarsen\\Denmark\\Copenhagen\\Sustainability\\Engineering\\Software tools\\NugetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Clipper": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Grasshopper": {
+              "include": "Compile, Build",
+              "target": "Package",
+              "version": "[7.35.23346.11001, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

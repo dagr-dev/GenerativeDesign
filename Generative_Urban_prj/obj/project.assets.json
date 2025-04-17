@@ -1,0 +1,173 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Clipper/6.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/clipper_library.dll": {}
+        },
+        "runtime": {
+          "lib/net40/clipper_library.dll": {}
+        }
+      },
+      "Grasshopper/7.35.23346.11001": {
+        "type": "package",
+        "dependencies": {
+          "RhinoCommon": "[7.35.23346.11001]"
+        },
+        "compile": {
+          "lib/net48/GH_IO.dll": {
+            "related": ".XML"
+          },
+          "lib/net48/Grasshopper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net48/_._": {
+            "related": ".XML"
+          }
+        },
+        "build": {
+          "build/net48/Grasshopper.targets": {}
+        }
+      },
+      "RhinoCommon/7.35.23346.11001": {
+        "type": "package",
+        "compile": {
+          "lib/net48/Eto.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Rhino.UI.dll": {},
+          "lib/net48/RhinoCommon.dll": {
+            "related": ".XML"
+          }
+        },
+        "runtime": {
+          "lib/net48/_._": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/net48/RhinoCommon.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clipper/6.4.0": {
+      "sha512": "BmpNAcUYfs9AZs8YsR2UAqd8axWO26uwat1Nsw2zTZRHhTPp5Hp2knj7HtBTS3WXjB5XNrGFYU/XpqtgkLKbWw==",
+      "type": "package",
+      "path": "clipper/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "clipper.6.4.0.nupkg.sha512",
+        "clipper.nuspec",
+        "lib/net40/clipper_library.dll"
+      ]
+    },
+    "Grasshopper/7.35.23346.11001": {
+      "sha512": "OFSqWiLVIc8EDoWJO9YWJv6dhGUxMiTY+Y8J93RzIi53F/BM6djJlkk8QI+HM6c8SQqa7G2Y4DeLonJIp78tUA==",
+      "type": "package",
+      "path": "grasshopper/7.35.23346.11001",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net48/Grasshopper.targets",
+        "grasshopper.7.35.23346.11001.nupkg.sha512",
+        "grasshopper.nuspec",
+        "grasshopper.png",
+        "lib/net48/GH_IO.XML",
+        "lib/net48/GH_IO.dll",
+        "lib/net48/Grasshopper.dll",
+        "lib/net48/Grasshopper.xml"
+      ]
+    },
+    "RhinoCommon/7.35.23346.11001": {
+      "sha512": "y31vEfMjd9n7fMCdP+qn7zCo0rAr8jx8Bzjl/3HpP5u6vlpndd0e6X+ZLLNIWt4/wIWZQb/sgGq9KXZgxcVmzQ==",
+      "type": "package",
+      "path": "rhinocommon/7.35.23346.11001",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Eto-LICENSE.txt",
+        "build/net48/RhinoCommon.targets",
+        "lib/net48/Eto.dll",
+        "lib/net48/Eto.xml",
+        "lib/net48/Rhino.UI.dll",
+        "lib/net48/RhinoCommon.XML",
+        "lib/net48/RhinoCommon.dll",
+        "rhinocommon.7.35.23346.11001.nupkg.sha512",
+        "rhinocommon.nuspec",
+        "rhinocommon.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Clipper >= 6.4.0",
+      "Grasshopper >= 7.35.23346.11001"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DAGR\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DAGR\\OneDrive - Ramboll\\Desktop\\REPOS BACKUP\\HLA_Generative_Urban_CPH\\Generative_Urban_sln\\Generative_Urban_prj\\Generative_Urban_prj.csproj",
+      "projectName": "Generative_Urban_prj",
+      "projectPath": "C:\\Users\\DAGR\\OneDrive - Ramboll\\Desktop\\REPOS BACKUP\\HLA_Generative_Urban_CPH\\Generative_Urban_sln\\Generative_Urban_prj\\Generative_Urban_prj.csproj",
+      "packagesPath": "C:\\Users\\DAGR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DAGR\\OneDrive - Ramboll\\Desktop\\REPOS BACKUP\\HLA_Generative_Urban_CPH\\Generative_Urban_sln\\Generative_Urban_prj\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DAGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "\\\\files\\MergedCompanies\\HenningLarsen\\Denmark\\Copenhagen\\Sustainability\\Engineering\\Software tools\\NugetPackages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "Clipper": {
+            "target": "Package",
+            "version": "[6.4.0, )"
+          },
+          "Grasshopper": {
+            "include": "Compile, Build",
+            "target": "Package",
+            "version": "[7.35.23346.11001, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
